@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_title" type="id">tv_title</item>
+    <item name="img_fc" type="id">img_fc</item>
+    <item name="tv_desc" type="id">tv_desc</item>
+</resources>
